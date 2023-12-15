@@ -1,0 +1,6 @@
+clear all;
+close all;
+s=figure;
+S=load('R6_08.txt');
+N=length(S);
+Fs=500;
